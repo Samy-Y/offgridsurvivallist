@@ -17,7 +17,7 @@ This project is a small web page that lists everything you'd want on your PC *be
 
 - TailwindCSS
 - HTML only (no JavaScript)  
-- Preview image and meta tags for SEO  
+- Preview image and meta tags for SEO  (check them using an OpenGraph tool)
 - Hosted with Github Pages
 
 ## Preview
