@@ -28,4 +28,5 @@ Deployed [here](https://samy-y.github.io/offgridsurvivallist/) on Github Pages (
 ## License
 
 MIT. Do what you want, just don't hoard the info.
+
 If the internet's gone, licenses probably won't matter anyway 😁😁😁😊😊
