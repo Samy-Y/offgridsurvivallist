@@ -18,11 +18,11 @@ This project is a small web page that lists everything you'd want on your PC *be
 - TailwindCSS
 - HTML only (no JavaScript)  
 - Preview image and meta tags for SEO  
-- Hosted with uhhh
+- Hosted with Github Pages
 
 ## Preview
 
-No yet deployed :(
+Deployed [here](https://samy-y.github.io/offgridsurvivallist/) on Github Pages (separate branch).
 
 ## License
 
