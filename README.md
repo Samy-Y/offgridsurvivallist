@@ -6,7 +6,8 @@ This project is a small web page that lists everything you'd want on your PC *be
 ## Features
 
 - Fully responsive Tailwind site  
-- Cool animated circular text  
+- Cool animated circular text
+- Simple fade-in/focus (...) animations
 - Three major survival categories:
   - Knowledge & data archives (Wikipedia, WikiHow, OpenStreetMap, etc.)
   - Survival books and guides (US Army FM, FAO docs, Where There Is No Doctor...)
@@ -15,7 +16,7 @@ This project is a small web page that lists everything you'd want on your PC *be
 
 ## Tech stack
 
-- TailwindCSS
+- TailwindCSS + TailwindCSS-Motion
 - HTML only (no JavaScript)  
 - Preview image and meta tags for SEO  (check them using an OpenGraph tool)
 - Hosted with Github Pages
